@@ -1,1 +1,2 @@
 1st line in fil1
+This line added by Developer B
